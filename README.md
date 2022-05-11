@@ -5,7 +5,7 @@
 ### Module (Required)
 | Module | Version | URL |
 | ------ | ------ | ------ |
-| OS & Packages | CentOS 7.7 | https://github.com/tmax-cloud/install-pkg-repo/tree/4.1 |
+| OS & Packages | CentOS 7.7 | https://github.com/learncloud/build-local-repo-centos7.7 |
 | Image Registry | v2 | https://github.com/tmax-cloud/install-registry/tree/4.1 |
 | CRI-O & Kubernetes | 1.17.5, 1.17.8  | https://github.com/tmax-cloud/install-k8s/tree/4.1 |
 | Calico | 3.13.4 | https://github.com/tmax-cloud/install-cni/tree/4.1 |
